@@ -1,4 +1,5 @@
-[# my-site](https://my-portfolio-ayush.netlify.app/)
+# my-site
+[click-here](https://my-portfolio-ayush.netlify.app/)
 This is my personal portfolio website, built with create-react-app and styled with SASS. The website showcases some of my projects and provides personal information.
 
 ![Screenshot 2023-06-15 160345](https://github.com/stan0047/my-site/assets/97254012/620c0cd3-ba1f-4017-8443-d87f66cdd815)
